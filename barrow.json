@@ -1,0 +1,19 @@
+{
+    "apparentTemperature": -21.64,
+    "cloudCover": 0.17,
+    "dewPoint": -9.61,
+    "humidity": 0.87,
+    "icon": "clear-night",
+    "nearestStormBearing": 155,
+    "nearestStormDistance": 407,
+    "ozone": 427.26,
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "pressure": 1030.2,
+    "summary": "Clear",
+    "temperature": -6.79,
+    "time": 1416956640,
+    "visibility": 9.82,
+    "windBearing": 80,
+    "windSpeed": 7.33
+}
